@@ -9,5 +9,6 @@
 			$numberRandom[] = $numberGenerated;
 		}
 	}
+	//stampo in pagina
 	var_dump($numberRandom);
 ?>
